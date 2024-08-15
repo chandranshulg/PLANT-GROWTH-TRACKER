@@ -17,8 +17,8 @@ The Plant Growth Tracker is a web application built with Flask that allows users
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/Plant-Growth-Tracker.git
-   cd Plant-Growth-Tracker
+   git clone https://github.com/chandranshulg/PLANT-GROWTH-TRACKER.git
+   cd PLANT-GROWTH-TRACKER
 
 2. **Set Up the Virtual Environment**
 
